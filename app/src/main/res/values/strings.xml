@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TermTracker</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="assignments">Assignments</string>
+    <string name="calendar">Calendar</string>
+    <string name="subjects">Subjects</string>
+    <string name="grade_calc">Grade Calculator</string>
+    <string name="notifications">Notifications</string>
+</resources>

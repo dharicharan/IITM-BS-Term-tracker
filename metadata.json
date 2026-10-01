@@ -1,0 +1,6 @@
+{
+  "name": "TermTracker",
+  "description": "Student assignment and deadline tracker with automated reminders, calendar view, subject selection, priority tagging, and IITM Sep 2026 grading formula calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
